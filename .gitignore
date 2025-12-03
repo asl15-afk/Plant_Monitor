@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor junk
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# WiFi / secrets (if any)
+wpa_supplicant.conf
+.env
+
+# System files
+*.service
+
